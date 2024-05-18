@@ -22,10 +22,10 @@
 <br>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=%white"/>
-<img alt="Spring" src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
- <img alt="spring Boot" src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-   <img alt="Microservices" src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
-   <img alt="Design Pattern" src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+<img alt="Spring" src="https://img.shields.io/badge/spring-%6DB33F.svg?style=for-the-badge&logo=spring&logoColor=%2361DAFB"/>
+<img alt="spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=%fff"/> 
+<img alt="Microservices" src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+<img alt="Design Pattern" src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
 </div>
 
 <!-- <h3 align="left">Languages :</h3>
